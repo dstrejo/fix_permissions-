@@ -39,18 +39,6 @@ Example Usage
 
 This is a script to fix permissions. Once executed, it will change the permissions of files and directories to their default Ubuntu values.
 
-Enter the ABSOLUTE PATH to the directory: /home/user/project
-
-Expected Output
-
-    Files:
-
-Changing files permissions to 644 recursively... Done
-
-Directories:
-
-    Changing subdirectories permissions to 755 recursively... Done
-
 Notes
 
     Default Permission Values:
